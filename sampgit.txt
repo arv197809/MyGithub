@@ -1,2 +1,3 @@
 This is the message created in dev1brnch in sampgit.txt
 Adding another  line in dev1brnch
+third line added
