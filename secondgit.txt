@@ -1,0 +1,1 @@
+This file is to test if Remote has 2 files and if we try to pull using '$git pull 'https://github.com/emailid/MyGithub.git' two files should be overriden
